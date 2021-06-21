@@ -1,5 +1,8 @@
 # simon-game-vue
 
+## Published on
+https://horigy.github.io/ngerasimov.github.io/simon-game-vue/
+
 ## Project setup
 ```
 npm install
